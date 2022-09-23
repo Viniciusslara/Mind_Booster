@@ -1,0 +1,46 @@
+.Flashcard {
+  min-height: 380px;
+  padding: 18px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #fff;
+  border-radius: 12px;
+}
+
+.Flashcard .Flashcard-row {
+  display: flex;
+  flex-grow: 1;
+  width: 100%;
+  padding: 0 18px;
+}
+
+.Flashcard .topRow {
+  border-bottom: 1px dashed #CECECE;
+}
+
+.Flashcard .rowContent {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+}
+
+.Flashcard .titleWrapper {
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.Flashcard .label {
+  font-size: 15px;
+  color: #777;
+}
+
+.Flashcard .title {
+  font-size: 28px;
+  font-weight: 600;
+  color: #222;
+  text-decoration: underline;
+}

@@ -1,0 +1,24 @@
+.edit {
+  width: 32px;
+  float: right;
+  display: block;
+}
+
+.excluir {
+  float: right;
+  width: 32px;
+}
+
+.colecao-img {
+  display: block;
+  width: 280px;
+  height: 280px;
+  margin: 32px auto 0px;
+}
+
+.colecao-item {
+  width: 320px;
+  padding: 16px;
+  background-color: #fff;
+  border-radius: 16px;
+}

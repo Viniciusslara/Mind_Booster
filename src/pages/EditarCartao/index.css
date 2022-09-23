@@ -1,0 +1,91 @@
+.EditarCartao input {
+  outline: none !important;
+  border: none !important;
+}
+
+.EditarCartao .CustomButton {
+  width: 100% !important;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.EditarCartao .content{
+  display: flex;
+  flex-direction: column;
+  /* flex: 1; */
+  width: 350px;
+  justify-content: center;
+}
+
+.EditarCartao .headerMainWrapper{
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  /* justify-content: center; */
+}
+
+.EditarCartao .header{}
+
+.EditarCartao .headerText{
+  font-size: 17px;
+  text-align: center;
+  color: #fff;
+}
+
+.EditarCartao .main{
+  margin-top: 10%;
+  margin: 18px 0;
+}
+
+.EditarCartao .form{
+  flex-direction: column;
+    display: flex;
+  min-height: 400px;
+  padding: 0px 18px;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  border-radius: 12px;
+}
+
+.EditarCartao .formRow{
+  display: flex;
+  flex-grow: 1;
+  width: 100%;
+  padding: 18px 0px;
+}
+
+.EditarCartao .topRow{
+  border: 1 #CECECE dashed;
+}
+
+.EditarCartao .bottomRow{}
+
+.EditarCartao .rowContent{
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.EditarCartao .titleWrapper{
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.EditarCartao .label{
+  font-size: 15px;
+  color: #777;
+}
+
+/* ! TextInput styles */
+.EditarCartao .textInput{
+  width: 100%;
+  font-size: 28px;
+  font-weight: 600;
+  color: #222;
+  text-align: center;
+}
+
+.EditarCartao .footer{}

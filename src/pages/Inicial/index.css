@@ -1,0 +1,61 @@
+body {
+    background-color: #2d294c;
+}
+
+.main h2 {
+    text-align: center;
+    font-weight: normal;
+    font-size: 36px;
+    margin: 16px 0px 64px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Mindbooster{
+    font-size: 48px;
+    text-align: center;
+    margin-top: 48px;
+    color: #746ace;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#clickcartao{
+    margin-bottom: 0px;
+    color: #d5ff26;
+    font-weight: bold;
+}
+
+
+.flashcard-container {
+    width: 70%;
+    margin: 0px auto;
+}
+
+.flashcard-container p {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.flashcard-strong {
+    margin: 32px 0px 0px 240px;
+}
+
+.info-e-flashcard {
+    margin-top: 32px;
+    display: flex;
+    align-items: center;
+}
+
+.seta-click{
+    margin-left: 90px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 200px;
+    width: 60%;
+}
+
+.seta-transicao {
+    
+    width: 10%;
+    height: 10%;
+}

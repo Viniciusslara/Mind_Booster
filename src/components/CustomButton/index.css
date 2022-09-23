@@ -1,0 +1,15 @@
+.CustomButton {
+  border: none;
+  font-size: 24px;
+  color: #fff;
+  padding: 12px 16px;
+  display: block;
+  margin: 32px auto;
+  background-color: #5e5796;
+  /* width: 180px; */
+  border-radius: 4px;
+}
+
+.CustomButton[data-state="secondary"] {
+  background-color: #57966a;
+}

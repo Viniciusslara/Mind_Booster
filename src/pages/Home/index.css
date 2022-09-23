@@ -1,0 +1,26 @@
+.home h3 {
+  font-size: 36px;
+  margin-top: 32px;
+  text-align: center;
+  color: #27aca7;
+}
+
+.home button {
+  border: none;
+  font-size: 24px;
+  color: #fff;
+  padding: 12px 16px;
+  display: block;
+  margin: 5rem 0px 0px auto;
+  margin-right: 120px;
+  background-color: #5e5796;
+  width: 240px;
+  border-radius: 4px;
+}
+
+/* Contaiiner ondem ficam os itens Colecao */
+.container-colecoes {
+  margin-top: 4rem;
+  display: flex;
+  justify-content: space-evenly;
+}

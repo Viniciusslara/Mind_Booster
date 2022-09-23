@@ -1,0 +1,19 @@
+.Jogar .body-container {
+  display: flex;
+  justify-content: center;
+}
+
+.Jogar .body {
+  min-width: 300px;
+}
+
+.Jogar .counter {
+  font-size: 17px;
+  text-align: center;
+  color: #fff;
+}
+
+.Jogar .main {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
